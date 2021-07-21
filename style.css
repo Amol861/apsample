@@ -172,7 +172,7 @@ margin-left: 200px;
   .title-image
   {
     align-self: center;
-    margin-left: 355px;
+    margin-left: 345px;
   }
 }
 @media(max-width: 1028px)
@@ -187,8 +187,7 @@ margin-left: 200px;
 {
   .reads
   {
-    align-self: center;
-    margin-left: 290px;
+    text-align: center;
   }
 }
 @media(max-width: 1028px)
@@ -203,7 +202,6 @@ margin-left: 200px;
 {
   .writes
   {
-    align-self: center;
-    margin-left: 290px;
+text-align: center;
   }
 }
